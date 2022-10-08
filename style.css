@@ -1,0 +1,64 @@
+.contain{
+    height:100vh;
+    display : flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contain-half{
+    width : 50%;
+    display : flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#home{
+    background-color:yellowgreen;
+    font-size: 500%;
+    color:aliceblue
+}
+
+
+
+#intro{
+    background-color: aqua;
+}
+
+#like{
+    background-color: yellow;
+    flex-wrap;
+}
+
+body{
+    margin:0;
+}
+
+.card{
+    width:200px;
+    height:300px;
+    background-color: aliceblue;
+}
+
+.card-image{
+    background-color: brown;
+    height: 50%;
+}
+
+.card-title{
+    background-color: aquamarine;
+    height: 20%;
+}
+
+.card-describe{
+    background-color:palevioletred;
+    height: 30%;
+}
+
+.contain-title{
+    width: 100%;
+}
+
+#t1{
+    width: 100%;
+    height: 100%;
+}
